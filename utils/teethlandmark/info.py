@@ -1,4 +1,3 @@
-import trimesh
 import numpy as np
 
 class ToothMeshInfo(object):
