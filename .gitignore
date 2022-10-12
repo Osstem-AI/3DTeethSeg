@@ -142,3 +142,4 @@ test.sh
 input/0316_upper.obj
 output/dental-labels.json
 output/dental-labels.json
+temp.vtp
