@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+experiments/landmark_lower.pth
+experiments/landmark_upper.pth
+experiments/teeth_model1.tar
+experiments/teeth_model2.tar
+experiments/teeth_model3.tar
+build.bat
+build.sh
+Dockerfile
+Dockerfile - 복사본
+export.bat
+export.sh
+test.bat
+test.sh

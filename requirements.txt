@@ -1,0 +1,7 @@
+torch==1.12.0
+yacs==0.1.8
+pygco==0.0.16
+vtk==9.2.2
+scikit-learn==1.1.2
+faiss==1.7.2
+trimesh==3.15.4
