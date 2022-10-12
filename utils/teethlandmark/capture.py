@@ -1,5 +1,6 @@
 import vtk
 import numpy as np
+import open3d as o3d
 from vtk.util import numpy_support as np_support
 from .info import ToothMeshInfo
 
@@ -26,10 +27,16 @@ class CaptureToothImage(ToothMeshInfo):
         self.image_matrix = []
 
     def __call__(self):
+        self.catpure_screen_shot()
         self._setting_caputre()
         self._capture_tooth_image()
         self._get_world_to_image_matrix()
         return self.img, self.image_matrix, self.world_matrix
+    
+    def catpure_screen_shot(self):
+        pcd_mesh = o3d.geometry.PointCloud(o3d.utility.Vector3dVector(np.array(self._barycenters)))
+        _, ind = pcd_mesh.remove_statistical_outlier(nb_neighbors=50, std_ratio=2.0)
+        self._faces = np.asarray(self._faces)[ind]
 
     def _create_polygon(self):
         numberPoints = len(self._points)

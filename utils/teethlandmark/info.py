@@ -16,3 +16,4 @@ class ToothMeshInfo(object):
         self._mesh = mesh
         self._faces = np.asarray(self._mesh.faces).tolist()
         self._points = np.asarray(self._mesh.vertices)
+        self._barycenters = np.asarray(self._mesh.triangles_center)
