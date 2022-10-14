@@ -23,9 +23,10 @@ conda create -n 3DTeethSeg python=3.8
 pip install -r requirements.txt
 ```
 # Usage
+All 
 
 ### Data Preparation
-If you can get a train or test data, visit the [here](https://grand-challenge.org/algorithms/create/)
+If you can get a train or test data, visit the [here](https://github.com/abenhamadou/3DTeethSeg22_challenge#input-and-output-interfaces)
 
 ### Inference
 After you are ready to prepare input data, you can run the main script in this command
