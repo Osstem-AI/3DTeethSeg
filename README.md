@@ -19,7 +19,7 @@ Please follow the commands below for more details.
 
 1. Clone this repository
 ```
-git clone https://github.com/Osstem-AI/3DTeethSeg/edit/main
+git clone https://github.com/Osstem-AI/3DTeethSeg
 ```
 2. Create conda enviornment and install required python packages
 ```
