@@ -38,7 +38,7 @@ python process.py
 ```
 
 # Contact
-If you have any questions about the code or need for reproduction, please contact via email(thyong@osstem.com). 
+If you have any questions about the code or need for reproduction, please contact via email (thyong@osstem.com). 
 
 # License
 All scipts are released under the GPL-3.0 license. <br/>
