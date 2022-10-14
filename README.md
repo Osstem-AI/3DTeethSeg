@@ -17,7 +17,7 @@ This repository contains the Pytorch implementation of 3D Teeth Scan Segmentatio
 
 &nbsp; &nbsp; Please follow the commands below for more details.
 
-&nbsp; &nbsp; 1. Clone this repo, and we'll call the directory that you cloned as ${POSE_ROOT}.
+&nbsp; &nbsp; 1. Clone this repo, and we'll call the directory that you cloned as ${POSE_ROOT}. <br/>
 &nbsp; &nbsp; 2. Create conda enviornment
 ```
 &nbsp; &nbsp; conda create -n python=3.8
