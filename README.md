@@ -30,11 +30,11 @@ For the test, you can run the code in this command
 python process.py
 ```
 
-
+# Contact
+If you have any questions about the code or need the code for reproduction, please contact via email(thyong@osstem.com). 
 
 # License
 All scipts are released under the GPL-3.0 license. <br/>
 COPYRIGHT © OSSTEM IMPLANT CO., LTD. ALL RIGHTS RESERVED.
 
-# Contact
-If you have any questions about the code or need the code for reproduction, please contact via email(thyong@osstem.com). 
+
