@@ -27,7 +27,7 @@ All interfaces of 3d teeth scan segmentation to use as a template in 3D Teeth Sc
 To find the template, please visit the [GitHub page](https://github.com/abenhamadou/3DTeethSeg22_challenge#input-and-output-interfaces)
 
 ### Data Preparation
-We used the release of first and second datasets in [here](https://3dteethseg.grand-challenge.org/) 
+We used the release of first and second datasets in [here](https://3dteethseg.grand-challenge.org/) to train or test
 
 ### Inference
 After you are ready to prepare input data, you can run the main script in this command.
