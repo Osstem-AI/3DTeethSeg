@@ -34,6 +34,7 @@ python process.py
 
 # License
 All scipts are released under the GPL-3.0 license.
+COPYRIGHT © OSSTEM IMPLANT CO., LTD. ALL RIGHTS RESERVED.
 
 # Contact
-If you have any questions about the code or need the code for reproduction, please contact via email. 
+If you have any questions about the code or need the code for reproduction, please contact via email(thyong@osstem.com). 
