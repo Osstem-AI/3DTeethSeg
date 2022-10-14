@@ -1,12 +1,12 @@
 # 3DTeethSeg
-Created by Tae-hoon Young, Hong Gi An, Wan Kim, Jae Hwan Han .<br/> 
+Created by Tae-hoon Young, Hong Gi An, Wan Kim, Jae Hwan Han <br/> 
 This repository contains the Pytorch implementation of 3D Teeth Scan Segmentation and Labeling Challenge(2022).
 
 ![figure](https://user-images.githubusercontent.com/115606507/195748298-b7d08f36-d0ef-44ec-9d8c-83b662c5a636.png)
 
 # Installation
-Requirements
-This repository is based on Python 3.8.
+### **Requirements** <br/>
+&nbsp; &nbsp; This repository is based on Python 3.8.
 * Pytorch 1.12
 * Scikit-learn 
 * Trimesh
@@ -17,7 +17,10 @@ This repository is based on Python 3.8.
 
 # Usage
 To run this code, please see the instruction below for more details.
-
+```
+pip install -r requirements.txt
+```
+asd
 
 
 # License
