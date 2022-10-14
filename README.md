@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 # Usage
 All interfaces of 3d teeth scan segmentation to use as a template in 3D Teeth Scan Segmentation and Labeling Challenge(2022). 
-To find the template, visit the [GitHub page](https://github.com/abenhamadou/3DTeethSeg22_challenge#input-and-output-interfaces)
+To find the template, please visit the [GitHub page](https://github.com/abenhamadou/3DTeethSeg22_challenge#input-and-output-interfaces)
 
 ### Data Preparation
 We used the release of first and second datasets in [here](https://3dteethseg.grand-challenge.org/) 
