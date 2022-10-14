@@ -23,7 +23,7 @@ conda create -n 3DTeethSeg python=3.8
 pip install -r requirements.txt
 ```
 # Usage
-All interfaces of 3d teeth scan segmentation to use as a template in 3D Teeth Scan Segmentation and Labeling Challenge(2022). <br\>
+All interfaces of 3d teeth scan segmentation to use as a template in 3D Teeth Scan Segmentation and Labeling Challenge(2022). <br/>
 If you can find the interfaces, visit the [here](https://github.com/abenhamadou/3DTeethSeg22_challenge#input-and-output-interfaces)
 
 ### Data Preparation
