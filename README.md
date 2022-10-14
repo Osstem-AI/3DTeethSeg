@@ -1,4 +1,4 @@
-![Grand-Challenge-Banner-2 x15](https://user-images.githubusercontent.com/115606507/195794893-bd702e7a-6b08-4fc4-9f80-7a7ae72ff15f.jpeg)
+![banner](https://user-images.githubusercontent.com/115606507/195795748-3fac825d-207d-4a16-9d79-f1a7dc160ce3.jpg)
 
 # 3DTeethSeg
 Created by Hong Gi An, Wan Kim, Jae Hwan Han, Tae-Hoon Yong* <br/> 
