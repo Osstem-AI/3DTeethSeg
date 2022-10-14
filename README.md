@@ -31,7 +31,7 @@ pip install -r requirements.txt
 # Usage
 For test this code
 ```
-python main.py
+python process.py
 ```
 
 
