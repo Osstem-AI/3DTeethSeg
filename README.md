@@ -16,9 +16,12 @@ This repository is based on Python 3.8.
 * Pygco
 
 # Usage
-To run this code, use the following command to test.
+To run this code, please see the instruction below for more details.
+
 
 
 # License
 The code is released under the GPL-3.0 license.
 
+# Contact
+If you have any questions about the code or need the code for reproduction, please contact via email. 
