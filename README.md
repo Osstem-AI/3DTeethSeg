@@ -9,27 +9,28 @@ This repository is developed on Python 3.8, Windows 10 and NVIDIA GTX 3090. Othe
 # Installation
 Please follow the commands below for more details.
 <br/>
-1. Clone this repository
+1. Clone this repository.
 ```
 git clone https://github.com/Osstem-AI/3DTeethSeg
 ```
-2. Create conda enviornment and install required python packages
+2. Create conda enviornment and install required python packages.
 ```
 conda create -n 3DTeethSeg python=3.8
 ```
 
-3. Install packages from requirements.txt
+3. Install packages from requirements.txt.
 ```
 pip install -r requirements.txt
 ```
 # Usage
-All 
+All interfaces of for 3d teeth scan segmentation to use as a template in 3D Teeth Scan Segmentation and Labeling Challenge(2022).
+If you can find the interfaces, visit the [here](https://github.com/abenhamadou/3DTeethSeg22_challenge#input-and-output-interfaces)
 
 ### Data Preparation
-If you can get a train or test data, visit the [here](https://github.com/abenhamadou/3DTeethSeg22_challenge#input-and-output-interfaces)
+If you can get a train or test data, visit the [homepage](https://3dteethseg.grand-challenge.org/) and verfied the account and participate the challenge. 
 
 ### Inference
-After you are ready to prepare input data, you can run the main script in this command
+After you are ready to prepare input data, you can run the main script in this command.
 ```
 python process.py
 ```
