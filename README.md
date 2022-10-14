@@ -16,7 +16,7 @@ git clone https://github.com/Osstem-AI/3DTeethSeg
 ```
 2. Create conda enviornment and install required python packages
 ```
-conda create -n python=3.8
+conda create -n [ENV_NAME] python=3.8
 ```
 
 3. Install packages from requirements.txt
