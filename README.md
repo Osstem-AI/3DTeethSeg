@@ -16,7 +16,7 @@ This repository contains the Pytorch implementation of 3D Teeth Scan Segmentatio
 * Pygco
 
 # Usage
-To run this code, please see the instruction below for more details.
+To run this code, please follow the commands below for more details.
 ```
 pip install -r requirements.txt
 ```
