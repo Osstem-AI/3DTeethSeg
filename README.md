@@ -15,7 +15,7 @@ This repository contains the Pytorch implementation of 3D Teeth Scan Segmentatio
 * Yacs
 * Pygco
 
-Please follow the commands below for more details.
+&nbsp; &nbsp; Please follow the commands below for more details.
 
 1. Clone this repo, and we'll call the directory that you cloned as ${POSE_ROOT}.
 2. Create conda enviornment
