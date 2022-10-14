@@ -17,7 +17,7 @@ This repository is developed on Python 3.8, Windows 10 and NVIDIA GTX 3090. Othe
 
 Please follow the commands below for more details.
 
-1. Clone this repo, and we'll call the directory that you cloned as ${POSE_ROOT}. <br/>
+1. Clone this repository
 2. Create conda enviornment and install required python packages
 ```
 conda create -n python=3.8
