@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 
 # Usage
-For the test, you can test the model in this command
+For the test, you can run the code in this command
 ```
 python process.py
 ```
