@@ -6,7 +6,7 @@ This repository contains the Pytorch implementation of 3D Teeth Scan Segmentatio
 
 # Installation
 ### **Requirements** <br/>
-&nbsp; &nbsp; This repository is based on Python 3.8.
+&nbsp; &nbsp; This repository is developed on Python 3.8 on Windows 11 and NVIDIA GTX 3090
 * Pytorch 1.12
 * Scikit-learn 
 * Trimesh
