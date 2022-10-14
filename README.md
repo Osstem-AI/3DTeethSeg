@@ -6,14 +6,7 @@ This repository contains the Pytorch implementation of 3D Teeth Scan Segmentatio
 
 # Installation
 ### **Requirements** <br/>
-This repository is developed on Python 3.8, Windows 10 and NVIDIA GTX 3090. Other platforms or GPU cards are not fully tested.
-* Pytorch 1.12
-* Scikit-learn 
-* Trimesh
-* Faiss
-* Vtk
-* Yacs
-* Pygco
+This repository is developed on Python 3.8, Windows 10 and NVIDIA GTX 3090. Other platforms or GPU cards are not fully tested. <br/> <br/>
 
 Please follow the commands below for more details.
 
