@@ -7,9 +7,8 @@ This repository contains the Pytorch implementation of 3D Teeth Scan Segmentatio
 This repository is developed on Python 3.8, Windows 10 and NVIDIA GTX 3090. Other platforms or GPU cards are not fully tested. <br/> <br/>
 
 # Installation
-<br/>
 Please follow the commands below for more details.
-
+<br/>
 1. Clone this repository
 ```
 git clone https://github.com/Osstem-AI/3DTeethSeg
