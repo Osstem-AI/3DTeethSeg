@@ -1,3 +1,5 @@
+![Grand-Challenge-Banner-2 x15](https://user-images.githubusercontent.com/115606507/195794893-bd702e7a-6b08-4fc4-9f80-7a7ae72ff15f.jpeg)
+
 # 3DTeethSeg
 Created by Hong Gi An, Wan Kim, Jae Hwan Han, Tae-Hoon Yong* <br/> 
 This repository contains the Pytorch implementation of 3D Teeth Scan Segmentation and Labeling Challenge(2022).
