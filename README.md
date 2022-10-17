@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/115606507/195795748-3fac825d-207d-4a16-9d79-f1a7dc160ce3.jpg)
 
 # 3DTeethSeg
-by Hong Gi An, Wan Kim, Jae Hwan Han, Min Sun Park, and Tae-Hoon Yong* <br/> 
+by Tae-Hoon Yong*, Hong Gi An, Wan Kim, Jae Hwan Han, Min Sun Park, and Byungsun Choi <br/> 
 This repository contains the Pytorch implementation of 3D Teeth Scan Segmentation and Labeling Challenge(2022).
 
 ![image](https://user-images.githubusercontent.com/115606507/195804980-75c25e4a-4bb6-452d-ad8a-4251f0c2a355.png)
